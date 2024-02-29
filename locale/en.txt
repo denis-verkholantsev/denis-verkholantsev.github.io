@@ -1,0 +1,66 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Без названия 1
+
+## Skin
+
+### Multiline Text
+HTMLText_FD74BBA1_F0A8_FC6A_41E2_F0B480B4A63A.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">sensor safety card</SPAN></SPAN></DIV></div>
+HTMLText_FF2872A2_F0B8_EC6E_41BB_3D7CEDDD068D.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">sightseeing tour</SPAN></SPAN></DIV></div>
+HTMLText_FFB5F4BF_F0BB_F456_416D_340F8F504257.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">thematic tour</SPAN></SPAN></DIV></div>
+HTMLText_FFE5103D_F0B9_6C55_41B4_1BDC24214088.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:left;font-size:18px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#ffffff;font-size:18px;font-family:'Gilroy Light';">social history</SPAN></SPAN></DIV></div>
+
+### Label
+Label_EC6B73B5_F441_9875_41E2_2CB29770B98C.text = museum of Perm antiquities
+
+## Media
+
+### Title
+album_EA2E69E6_F4C1_8817_41D2_7FFDFB2BDC74.label = Photo Album Dog
+album_EA2E69E6_F4C1_8817_41D2_7FFDFB2BDC74_0.label = Dog
+map_E24733A6_F4C2_B816_41C0_E54CF2AFE245.label = map
+panorama_E4B65093_EFCE_179F_41E5_17F4E9FCFCA6.label = bedroom_panorama
+panorama_ECEE3E03_F443_880E_41E1_3090158C081D.label = bathroom
+video_EAF55E72_F4FF_880E_41E6_3A9C8C9C457D.label = 3D Product Animation Video (3D Product visualization)
+
+## Action
+
+### URL
+PopupWebFrameBehaviour_D6A3F8B3_F443_880D_41E4_5C0848E6B18E.url = https://museumperm.ru/
+
+## E-Learning
+
+### Answer
+questionOption_D5C4A735_F4C2_9875_41CB_29DAB5982C33.text = Не я
+questionOption_D5E60836_F4C1_8877_41D2_C07EB5BC4969.text = Я
+
+### Score Name
+score1.label = Score 1
+
+### Question
+question_D5DF3FB2_F4C1_880F_41EA_497D5881B0B8.title = Кто я?
+
+### Question Screen
+quizQuestion_EB3726E3_F4C3_980D_41E0_D85CFE28ACCF.ok = OK
+
+### Report Screen
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.completion = Completed
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.downloadCSV = Download .csv
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.elapsedTime = Time
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.items = Items Found
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.questions = Questions
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.questionsCorrect = Correct
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.questionsIncorrect = Incorrect
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.repeat = Repeat
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.submitToLMS = Submit
+quizScore_EB3506E3_F4C3_980D_41D6_D505F5CED301.title = - SCORE -
+
+### Timeout Screen
+quizTimeout_EB3736E3_F4C3_980E_41CE_7E0C5F3B69C8.repeat = Repeat
+quizTimeout_EB3736E3_F4C3_980E_41CE_7E0C5F3B69C8.score = View Score
+quizTimeout_EB3736E3_F4C3_980E_41CE_7E0C5F3B69C8.title = - TIMEOUT -
